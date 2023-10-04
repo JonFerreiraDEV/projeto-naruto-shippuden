@@ -45,8 +45,32 @@ main .personagem .imagem {
 
 }
 
-.conteudo .nome-personagem {
-    color: #ffffff;
+.conteudo .nome-personagem-1 {
+    color: #0c4b09;
+    font-size: 38px;
+    font-family: "Secular One";font-weight: 400;
+    margin-top: 60px;
+
+}
+
+.conteudo .nome-personagem-2 {
+    color: #de0b43;
+    font-size: 38px;
+    font-family: "Secular One";font-weight: 400;
+    margin-top: 60px;
+
+}
+
+.conteudo .nome-personagem-3 {
+    color: #ff4000;
+    font-size: 38px;
+    font-family: "Secular One";font-weight: 400;
+    margin-top: 60px;
+
+}
+
+.conteudo .nome-personagem-4 {
+    color: #8300d5b5;
     font-size: 38px;
     font-family: "Secular One";font-weight: 400;
     margin-top: 60px;
