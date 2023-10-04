@@ -21,4 +21,4 @@ function desselecionarBotao() {
 function desselecionarPersonagem() {
     const personagemSelecionado = document.querySelector(".personagem.selecionado");
     personagemSelecionado.classList.remove("selecionado");
-}
+}                   
